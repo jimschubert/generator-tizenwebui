@@ -48,8 +48,8 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 
 ### Others
 
-Tizen components are licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
-jQuery components are licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
-modernizr components are licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
-initializr.com generated HTML is public domain [see here](http://verekia.com/initializr/responsive-template)
+* Tizen components are licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+* jQuery components are licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+* modernizr components are licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+* initializr.com generated HTML is public domain [see here](http://verekia.com/initializr/responsive-template)  
 
