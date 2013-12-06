@@ -1,0 +1,7 @@
+{
+  "name": "<%= _.slugify(projectName) %>",
+  "version": "0.0.0",
+  "dependencies": {
+    "tizen-web-ui-fw": "https://github.com/townxelliot/web-ui-fw-bower.git#~0.2.50"
+  }
+}
