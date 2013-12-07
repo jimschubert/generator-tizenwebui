@@ -52,6 +52,7 @@ module.exports = function (grunt) {
                 files: [
                     { expand: true, cwd: '.', src: ['src/css/**'], dest: 'build/app' },
                     { expand: true, cwd: '.', src: ['src/js/**'], dest: 'build/app' },
+                    { expand: true, cwd: '.', src: ['src/img/**'], dest: 'build/app' },
                     { expand: true, cwd: '.', src: ['src/tizen-web-ui-fw/**'], dest: 'build/app' },
                     { expand: true, cwd: '.', src: ['src/index.html'], dest: 'build/app' },
                 ]
